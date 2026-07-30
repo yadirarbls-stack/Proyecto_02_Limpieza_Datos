@@ -1,12 +1,12 @@
-\# 🧹 Proyecto 02 - Limpieza de Datos
+# 🧹 Proyecto 02 - Limpieza de Datos
 
 
 
-\## 📋 Descripción
+## 📋 Descripción
 
 
 
-Este proyecto forma parte de mi portafolio de \*\*Análisis de Datos con Python\*\* y tiene como objetivo aplicar técnicas de limpieza y preparación de datos sobre un conjunto de datos abiertos publicados por \*\*AGESIC\*\*.
+Este proyecto forma parte de mi portafolio de Análisis de Datos con Python y tiene como objetivo aplicar técnicas de limpieza y preparación de datos sobre un conjunto de datos abiertos publicados.
 
 
 
@@ -14,51 +14,51 @@ A partir de un dataset previamente explorado, se evaluó su calidad, identifican
 
 
 
-\---
+---
 
 
 
-\## 🎯 Objetivos
+## 🎯 Objetivos
 
 
 
-\- Evaluar la calidad del conjunto de datos.
+- Evaluar la calidad del conjunto de datos.
 
-\- Identificar y analizar valores faltantes.
+- Identificar y analizar valores faltantes.
 
-\- Detectar registros duplicados.
+- Detectar registros duplicados.
 
-\- Verificar la consistencia de variables categóricas.
+- Verificar la consistencia de variables categóricas.
 
-\- Corregir tipos de datos cuando corresponde.
+- Corregir tipos de datos cuando corresponde.
 
-\- Obtener un conjunto de datos limpio y preparado para análisis posteriores.
-
-
-
-\---
+- Obtener un conjunto de datos limpio y preparado para análisis posteriores.
 
 
 
-\## 🛠️ Tecnologías utilizadas
+---
 
 
 
-\- Python 3
-
-\- Pandas
-
-\- NumPy
-
-\- Jupyter Notebook
+## 🛠️ Tecnologías utilizadas
 
 
 
-\---
+- Python 3
+
+- Pandas
+
+- NumPy
+
+- Jupyter Notebook
 
 
 
-\## 📂 Estructura del proyecto
+---
+
+
+
+## 📂 Estructura del proyecto
 
 
 
@@ -98,11 +98,11 @@ Proyecto 02 - Limpieza de Datos/
 
 
 
-\---
+---
 
 
 
-\## 🔎 Actividades realizadas
+## 🔎 Actividades realizadas
 
 
 
@@ -110,29 +110,29 @@ Durante el proyecto se realizaron las siguientes tareas:
 
 
 
-\- Carga del conjunto de datos.
+- Carga del conjunto de datos.
 
-\- Evaluación de la calidad de los datos.
+- Evaluación de la calidad de los datos.
 
-\- Identificación de valores faltantes.
+- Identificación de valores faltantes.
 
-\- Revisión de registros duplicados.
+- Revisión de registros duplicados.
 
-\- Evaluación de la consistencia de variables categóricas.
+- Evaluación de la consistencia de variables categóricas.
 
-\- Conversión de la variable `fechainicioorganismo` al tipo `datetime`.
+- Conversión de la variable `fechainicioorganismo` al tipo `datetime`.
 
-\- Validación final del conjunto de datos.
+- Validación final del conjunto de datos.
 
-\- Exportación del dataset limpio.
-
-
-
-\---
+- Exportación del dataset limpio.
 
 
 
-\## 📊 Resultados
+---
+
+
+
+## 📊 Resultados
 
 
 
@@ -144,13 +144,13 @@ Principales hallazgos:
 
 
 
-\- No se identificaron registros duplicados.
+- No se identificaron registros duplicados.
 
-\- Solo se detectaron dos valores nulos, cuyo impacto sobre el conjunto de datos es insignificante.
+- Solo se detectaron dos valores nulos, cuyo impacto sobre el conjunto de datos es insignificante.
 
-\- No fue necesario realizar procesos de normalización en las variables categóricas, ya que los valores presentaban una estructura consistente.
+- No fue necesario realizar procesos de normalización en las variables categóricas, ya que los valores presentaban una estructura consistente.
 
-\- La columna `fechainicioorganismo` fue convertida correctamente al tipo `datetime`, permitiendo su utilización en análisis temporales.
+- La columna `fechainicioorganismo` fue convertida correctamente al tipo `datetime`, permitiendo su utilización en análisis temporales.
 
 
 
@@ -158,11 +158,11 @@ Como resultado, se obtuvo un conjunto de datos consistente y preparado para las 
 
 
 
-\---
+---
 
 
 
-\## 📁 Dataset
+## 📁 Dataset
 
 
 
@@ -194,11 +194,11 @@ datos-junio-noviembre-2018.csv
 
 
 
-\---
+---
 
 
 
-\## 🚀 Próximos proyectos
+## 🚀 Próximos proyectos
 
 
 
@@ -206,27 +206,27 @@ Este proyecto forma parte de una serie orientada al ciclo completo del análisis
 
 
 
-\- ✅ Proyecto 01 – Exploración de Datos (EDA)
+- ✅ Proyecto 01 – Exploración de Datos (EDA)
 
-\- ✅ Proyecto 02 – Limpieza de Datos
+- ✅ Proyecto 02 – Limpieza de Datos
 
-\- 🔜 Proyecto 03 – Análisis Exploratorio de Datos
+- 🔜 Proyecto 03 – Análisis Exploratorio de Datos
 
-\- 🔜 Proyecto 04 – Visualización de Datos
+- 🔜 Proyecto 04 – Visualización de Datos
 
-\- 🔜 Proyecto 05 – Estadística Aplicada
+- 🔜 Proyecto 05 – Estadística Aplicada
 
-\- 🔜 Proyecto 06 – Dashboards con Power BI
+- 🔜 Proyecto 06 – Dashboards con Power BI
 
-\- 🔜 Proyecto 07 – Machine Learning
-
-
-
-\---
+- 🔜 Proyecto 07 – Machine Learning
 
 
 
-\## 👩‍💻 Autor
+---
+
+
+
+## 👩‍💻 Autor
 
 
 
