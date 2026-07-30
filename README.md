@@ -230,7 +230,7 @@ Este proyecto forma parte de una serie orientada al ciclo completo del análisis
 
 
 
-*\*Yadira Robles Aranda\*\*
+Yadira Robles Aranda
 
 
 
